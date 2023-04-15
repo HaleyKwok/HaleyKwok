@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there! I'm Haley Kwok! Hello World from 22.3193° 114.1694° 👋
 
 <!--
 **HaleyKwok/HaleyKwok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
