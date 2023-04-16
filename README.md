@@ -66,7 +66,16 @@ Here are some ideas to get you started:
 
 ---
 
-  
-[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FF813F?style=flat&logo=buy-me-a-coffee&logoColor=ffffff&link=https://www.buymeacoffee.com/kwokhinchi)](https://www.buymeacoffee.com/kwokhinchi)
+<div align="center">
+            <a href="https://www.buymeacoffee.com/kwokhinchi" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FF813F?style=flat&logo=buy-me-a-coffee&logoColor=ffffff&link=https://www.buymeacoffee.com/kwokhinchi" 
+                    align="center"
+                />
+            </a></div>
+<br />
+
+<!--   
+[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FF813F?style=flat&logo=buy-me-a-coffee&logoColor=ffffff&link=https://www.buymeacoffee.com/kwokhinchi)](https://www.buymeacoffee.com/kwokhinchi) -->
 
 :star: From [@HaleyKwok](https://github.com/haleykwok)
