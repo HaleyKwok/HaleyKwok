@@ -1,8 +1,8 @@
-### I'm Haley Kwok! Hello World from 22.3193° 114.1694° 
+### I'm Haley Kwok! Hello World from 22.3193° 114.1694° 👋
 
-<div align="center">
+<!-- <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+</div>   -->
 
 <!-- <p align="center"> :octocat: <b><a href="https://haleykwok.github.io">Website</a> / <a href="https://www.brennanbrown.ca/resume.pdf">Resume</a> / <a href="https://www.brennanbrown.ca/project">Projects</a></b> :octocat: </p> -->
 
@@ -23,13 +23,16 @@ Here are some ideas to get you started:
   
 <h3> 👩🏻‍💻 About Me </h3>
 
+- 😄 &nbsp; Pronouns: She/Her
 - 🔭 &nbsp; I’m currently learning C++ 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Minor Studying Computer Science.
+- 🎓 &nbsp; Minor studying Computer Science.
 - 💼 &nbsp; A Junior Student in The Hong Kong Polytechnic University.
 - 🌱 &nbsp; Enthusiast for cognitive formation in Human and Machines.
 - ✍️ &nbsp; The meaning of life is to create an irreplaceable and unique value. We're here to put a dent in the universe.
 - ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress. 
+
+
 
 <h3>🛠 Tech Stack</h3>
 
@@ -63,8 +66,7 @@ Here are some ideas to get you started:
 
 ---
 
-<div align="center">
+  
 [![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FF813F?style=flat&logo=buy-me-a-coffee&logoColor=ffffff&link=https://www.buymeacoffee.com/kwokhinchi)](https://www.buymeacoffee.com/kwokhinchi)
-</div>
 
 :star: From [@HaleyKwok](https://github.com/haleykwok)
