@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
   
-<h3> 👩🏻‍💻 About Me </h3>
+### 👩🏻‍💻 About Me
 
 - 😄 &nbsp; Pronouns: She/Her
 - 🔭 &nbsp; I’m currently learning C++ 
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 
 
-<h3>🛠 Tech Stack</h3>
+###  🛠 Tech Stack
 
 - 💻 &nbsp; Python | C++  
 - 🌐 &nbsp; HTML | CSS | JavaScript | ASP.NET | Hexo | Flask
@@ -43,8 +43,67 @@ Here are some ideas to get you started:
 - ⚙️ &nbsp; Arduino | 3D Printing | Welding 
 
 
+### 🕚 Project that I've done
 
-<br>
+<div align="center">
+  <b></b>
+</div>
+<table align="center">
+  <tbody>
+    <tr align="center" valign="bottom">
+      <td>
+        <b>Arduino</b>
+      </td>
+      <td>
+        <b>Robotics</b>
+      </td>
+      <td>
+        <b>Web Development</b>
+      </td>
+      <td>
+        <b>Other</b>
+      </td>
+    </tr>
+    <tr valign="top">
+      <td>
+        <ul>
+            <li><a href="https://github.com/HaleyKwok/lighTag-UWB">lighTag-UWB</a></li>
+            <li><a href="https://github.com/HaleyKwok/Spherical_Robot">Spherical Robot</a></li>
+      </ul>
+      </td>
+      <td>
+        <ul>
+          <li><a href="https://github.com/HaleyKwok/Python_Libraries_for_RoboDK">Python Libraries for RoboDK</a></li>
+          <li><a href="https://www.hkictawards.hk/award_en.php?year=2022&aid=8">Mutual Cognitive Human-Robot Collaborative Manufacturing Systems</a></li>
+          <li><a href="http://ca.hkie.org.hk/en_it_events_inside_Upcoming.aspx?EventID=617&TypeName=Events%20/%20Activities">A Meta-Reinforcement Learning Based Control Approach for Assisting Human-Robot Collaboration in Personalized Production</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li><a href="https://github.com/HaleyKwok/ISE2001_Enterprise_Computing">Enterprise Computing</a></li>
+          <li><a href="https://github.com/HaleyKwok/HaleyKwok.github.io">My Personal Website based on Hexo Framework</a></li>
+        </ul>
+      </td>
+      <td>
+        </ul>
+          <li><b>Management System</b></li>
+        <ul>
+        <ul>
+          <li><a href="https://github.com/HaleyKwok/Library_Management_System_Project">Library Management System Project</a></li>
+        </ul>
+        </ul>
+        </ul>
+          <li><b>Exercise</b></li>
+        <ul>
+        <ul>
+          <li><a href="https://github.com/HaleyKwok/The_Patchwork_Quilt_of_Python">The Patchwork Quilt of Python</a></li>
+        </ul>
+        </ul>
+</td>
+    </tr>
+  </tbody>
+</table>
+
 
 ---
 
@@ -55,7 +114,6 @@ Here are some ideas to get you started:
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haleykwok&layout=compact&exclude_repo=sumy7.github.io&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" align="center" />
 </div>  
 <br/>  
-
 
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api?username=haleykwok&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
