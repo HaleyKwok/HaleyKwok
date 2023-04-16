@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 - 🌐 &nbsp; HTML | CSS | JavaScript | ASP.NET | Hexo | Flask
 - 🛢 &nbsp; SQL | Xampp 
 - 🔧 &nbsp; Jupyter Notebook | PyCharm | Visual Studio code | IntelliJ IDEA | Postman
-- ⚙️ &nbsp; Arduino | 3D Printing | Welding 
+- ⚙️ &nbsp; Arduino | 3D Printing | Welding | CNC
 
 
 ### 🕚 Project that I've done
