@@ -47,40 +47,53 @@ Here are some ideas to get you started:
 
 <br>
 
+---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api?username=haleykwok&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+### 📈 Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=haleykwok&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats"/><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=haleykwok&layout=compact&exclude_repo=sumy7.github.io&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" align="center" /></div>  
+
+<br/>  
+
+
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api?username=haleykwok&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haleykwok&layout=compact&exclude_repo=sumy7.github.io&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
-
+ -->
 
 ---
 
-<h3> 🤝🏻 Connect with Me </h3>
+### 🤝🏻 Connect with Me 
 
 <p align="center">
 <!-- &nbsp; <a href="https://twitter.com/_souvik_guria" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>   -->
-&nbsp; <a href="https://www.instagram.com/haleyk.11/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
+<!-- &nbsp; <a href="https://www.instagram.com/haleyk.11/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
 &nbsp; <a href="https://www.linkedin.com/in/haley-kwok-4076a8254/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:kwokhinchi@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
-
+ -->
 
 <div align="center">
 <a href="https://github.com/haleykwok" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
+  
 <a href="https://dev.to/haleykwok" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
+  
 <a href="https://www.linkedin.com/in/haley-kwok-4076a8254/ target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
+
 <a href="https://www.instagram.com/haleyk.11/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
+
 </div>  
 
 ---
+
+
 
 <div align="center">
 <a href="https://www.buymeacoffee.com/kwokhinchi" target="_blank" style="display: inline-block;">
