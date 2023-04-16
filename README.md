@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-https://www.buymeacoffee.com/kwokhinchi
+
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api?username=haleykwok&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
@@ -36,3 +36,4 @@ https://www.buymeacoffee.com/kwokhinchi
 [![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FF813F?style=flat&logo=buy-me-a-coffee&logoColor=ffffff&link=https://www.buymeacoffee.com/kwokhinchi)](https://www.buymeacoffee.com/kwokhinchi)
 
 
+:star: From [@HaleyKwok](https://github.com/haleykwok)
