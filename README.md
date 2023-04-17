@@ -74,14 +74,14 @@ Here are some ideas to get you started:
       <td>
         <ul>
           <li><a href="https://github.com/HaleyKwok/Python_Libraries_for_RoboDK">Python Libraries for RoboDK</a></li>
-          <li><a href="https://www.hkictawards.hk/award_en.php?year=2022&aid=8">Mutual Cognitive Human-Robot Collaborative Manufacturing Systems</a></li>
+          <li><a href="https://www.hkictawards.hk/award_en.php?year=2022&aid=8">Mutual Cognitive Human-Robot Collaborative Manufacturing Systems</a</li>
           <li><a href="http://ca.hkie.org.hk/en_it_events_inside_Upcoming.aspx?EventID=617&TypeName=Events%20/%20Activities">A Meta-Reinforcement Learning Based Control Approach for Assisting Human-Robot Collaboration in Personalized Production</a></li>
         </ul>
       </td>
       <td>
         <ul>
-          <li><a href="https://github.com/HaleyKwok/ISE2001_Enterprise_Computing">Enterprise Computing</a></li>
           <li><a href="https://haleykwok.github.io">My Personal Website based on Hexo Framework</a></li>
+          <li><a href="https://github.com/HaleyKwok/ISE2001_Enterprise_Computing">Enterprise Computing</a></li>
           <li><a href="https://github.com/HaleyKwok/Python_Libraries_for_Data_Analytics/tree/main/Bengaluru_House_Price_Project">Bengaluru House Price Project</a></li>
         </ul>
       </td>
@@ -94,7 +94,7 @@ Here are some ideas to get you started:
         </ul>
         </ul>
         </ul>
-          <li><b>Exercise</b></li>
+          <li><b>Python Exercise</b></li>
         <ul>
         <ul>
           <li><a href = "https://github.com/HaleyKwok/Python_Libraries_for_ML">Python Libraries for ML</a></li>
