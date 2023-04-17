@@ -97,6 +97,7 @@ Here are some ideas to get you started:
         <ul>
         <ul>
           <li><a href="https://github.com/HaleyKwok/The_Patchwork_Quilt_of_Python">The Patchwork Quilt of Python</a></li>
+          <li><a hred = 'https://github.com/HaleyKwok/Python_Libraries_for_ML'>Python Libraries for ML</li>
         </ul>
         </ul>
 </td>
