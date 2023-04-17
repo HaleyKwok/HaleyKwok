@@ -82,6 +82,7 @@ Here are some ideas to get you started:
         <ul>
           <li><a href="https://github.com/HaleyKwok/ISE2001_Enterprise_Computing">Enterprise Computing</a></li>
           <li><a href="https://haleykwok.github.io">My Personal Website based on Hexo Framework</a></li>
+          <li><a href="https://github.com/HaleyKwok/Python_Libraries_for_Data_Analytics/tree/main/Bengaluru_House_Price_Project">Bengaluru House Price Project</a></li>
         </ul>
       </td>
       <td>
