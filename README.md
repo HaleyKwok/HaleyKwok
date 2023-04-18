@@ -100,6 +100,7 @@ Here are some ideas to get you started:
           <li><a href = "https://github.com/HaleyKwok/Python_Libraries_for_ML">Python Libraries for ML</a></li>
           <li><a href = "https://github.com/HaleyKwok/Python_Libraries_for_Data_Analytics">Python Libraries for Data Analytics</a></li>
           <li><a href="https://github.com/HaleyKwok/The_Patchwork_Quilt_of_Python">The Patchwork Quilt of Python</a></li>
+          <li><a href="  https://github.com/HaleyKwok/Python_Practice">Python Practice</a></li>
         </ul>
         </ul>
 </td>
