@@ -54,23 +54,33 @@ Here are some ideas to get you started:
       <td>
         <b>Arduino/Positioning/Control</b>
       </td>
+<!--        -->
       <td>
         <b>Robotics</b>
       </td>
+      <!--        -->
       <td>
         <b>Web Development</b>
       </td>
+<!--        -->      
       <td>
-        <b>Other</b>
+        <b>Database</b>
       </td>
+  <!--        -->    
+      <td>
+        <b>Machine Learning</b>
+      </td>
+  <!--        -->    
     </tr>
     <tr valign="top">
+  <!--        -->    
       <td>
         <ul>
             <li><a href="https://github.com/HaleyKwok/lighTag-UWB">lighTag-UWB</a></li>
             <li><a href="https://github.com/HaleyKwok/Spherical_Robot">Spherical Robot</a></li>
       </ul>
       </td>
+    <!--        -->  
       <td>
         <ul>
           <li><a href="https://github.com/HaleyKwok/Python_Libraries_for_RoboDK">Python Libraries for RoboDK</a></li>
@@ -78,32 +88,36 @@ Here are some ideas to get you started:
           <li><a href="http://ca.hkie.org.hk/en_it_events_inside_Upcoming.aspx?EventID=617&TypeName=Events%20/%20Activities">A Meta-Reinforcement Learning Based Control Approach for Assisting Human-Robot Collaboration in Personalized Production</a></li>
         </ul>
       </td>
+ <!--        -->       
       <td>
         <ul>
           <li><a href="https://haleykwok.github.io">My Personal Website based on Hexo Framework</a></li>
           <li><a href="https://github.com/HaleyKwok/ISE2001_Enterprise_Computing">Enterprise Computing</a></li>
-          <li><a href="https://github.com/HaleyKwok/Python_Libraries_for_Data_Analytics/tree/main/Bengaluru_House_Price_Project">Bengaluru House Price Project</a></li>
         </ul>
       </td>
-      <td>
-        </ul>
+<!--         <ul>
           <li><b>Management System</b></li>
-        <ul>
+        </ul> -->
+       <td>
         <ul>
           <li><a href="https://github.com/HaleyKwok/Library_Management_System_Project">Library Management System Project</a></li>
+          <li><a href="https://github.com/HaleyKwok/ISE2001_Enterprise_Computing">Enterprise Computing</a></li>
+        </ul>
+       </td>     
+<!--       
         </ul>
         </ul>
-        </ul>
-          <li><b>Python Exercise</b></li>
+          <li><b>Python Exercise</b></li> -->
+       <td>
         <ul>
-        <ul>
+          <li><a href="https://github.com/HaleyKwok/Python_Libraries_for_Data_Analytics/tree/main/Bengaluru_House_Price_Project">Bengaluru House Price Project</a></li>
           <li><a href = "https://github.com/HaleyKwok/Python_Libraries_for_ML">Python Libraries for ML</a></li>
           <li><a href = "https://github.com/HaleyKwok/Python_Libraries_for_Data_Analytics">Python Libraries for Data Analytics</a></li>
           <li><a href= "https://github.com/HaleyKwok/The_Patchwork_Quilt_of_Python">The Patchwork Quilt of Python</a></li>
           <li><a href= "https://github.com/HaleyKwok/Python_Practice">Python Practice</a></li>
         </ul>
-        </ul>
-</td>
+      </td>
+ <!--        -->     
     </tr>
   </tbody>
 </table>
