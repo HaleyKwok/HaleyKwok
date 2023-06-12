@@ -52,7 +52,7 @@ Here are some ideas to get you started:
   <tbody>
     <tr align="center" valign="bottom">
       <td>
-        <b>Arduino</b>
+        <b>Arduino/Positioning/Control</b>
       </td>
       <td>
         <b>Robotics</b>
