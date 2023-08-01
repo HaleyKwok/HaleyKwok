@@ -91,7 +91,7 @@ Here are some ideas to get you started:
  <!--        -->       
       <td>
         <ul>
-          <li><a href="https://haleykwok.github.io">My Personal Website based on Hexo Framework</a></li>
+          <li><a href="https://hinchi-kwok.com">My Personal Website based on Hexo Framework</a></li>
           <li><a href="https://github.com/HaleyKwok/ISE2001_Enterprise_Computing">Enterprise Computing</a></li>
         </ul>
       </td>
