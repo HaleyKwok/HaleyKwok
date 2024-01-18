@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 😄 &nbsp; Pronouns: She/Her
 - 🔭 &nbsp; I’m currently learning C++ 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; A Junior Student in The Hong Kong Polytechnic University, minor studying Computer Science.
+- 🎓 &nbsp; A Junior Student @PolyU, Exchange/Internship @UCB @McGill @SJTU, studying IEOR + CS.
 - 🌱 &nbsp; Enthusiast for cognitive formation in Human and Machines.
 - ✍️ &nbsp; The meaning of life is to create an irreplaceable and unique value via "Curiousity, Challenge, Change". We're here to put a dent in the universe.
 - ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress.
