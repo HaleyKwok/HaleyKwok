@@ -19,19 +19,18 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🌱 &nbsp; Enthusiast for cognitive formation in Human and Machines.
+- ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress.
 -->
   
 ### 👩🏻‍💻 About Me
 
 - 😄 &nbsp; Pronouns: She/Her
 - 🔭 &nbsp; I’m currently learning C++ 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; A Junior Student @PolyU, Exchange/Internship @UCB @McGill @SJTU, studying IEOR + CS.
-- 🌱 &nbsp; Enthusiast for cognitive formation in Human and Machines.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks in Software Engineering and Large Language Model.
+- 🎓 &nbsp; A Junior Student @PolyU, Exchange/Internship @MIT HK @UCB @McGill @SJTU, studying IEOR + CS.
 - ✍️ &nbsp; The meaning of life is to create an irreplaceable and unique value via "Curiousity, Challenge, Change". We're here to put a dent in the universe.
-- ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress.
-- 💼 &nbsp; An individual may not be able to do great things, but a group of individuals can. Feel free to reach out if you have cool idea that we can collaborate by any chance.
-
+- 💼 &nbsp; An individual may be able to do great things, but a group of individuals can do better. Feel free to reach out if you have cool idea that we can collaborate by any chance. 
 
 
 ###  🛠 Tech Stack
@@ -124,8 +123,6 @@ Here are some ideas to get you started:
 
 
 ---
-
-
 
 ### 📈 Github Stats  
 
