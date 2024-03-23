@@ -75,7 +75,7 @@ Here are some ideas to get you started:
   <!--        -->    
       <td>
         <ul>
-            <li><a href="https://github.com/HaleyKwok/lighTag-UWB">lighTag-UWB</a></li>
+            <li><a href="https://github.com/lighTag-UWB/lighTag">lighTag-UWB</a></li>
             <li><a href="https://github.com/HaleyKwok/Spherical_Robot">Spherical Robot</a></li>
       </ul>
       </td>
