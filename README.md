@@ -67,7 +67,7 @@ Here are some ideas to get you started:
       </td>
   <!--        -->    
       <td>
-        <b>Machine Learning</b>
+        <b>Data Science and Machine Learning</b>
       </td>
   <!--        -->    
     </tr>
