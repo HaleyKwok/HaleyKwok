@@ -100,6 +100,7 @@ Here are some ideas to get you started:
        <td>
         <ul>
           <li><a href="https://github.com/HaleyKwok/Library_Management_System_Project">Library Management System Project</a></li>
+          <li><a href="https://github.com/HaleyKwok/University-Academic-Management-System">University Academic Management System</a></li>
           <li><a href="https://github.com/HaleyKwok/ISE2001_Enterprise_Computing">Enterprise Computing</a></li>
         </ul>
        </td>     
