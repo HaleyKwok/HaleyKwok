@@ -82,7 +82,6 @@ Here are some ideas to get you started:
     <!--        -->  
       <td>
         <ul>
-          <li><a href="https://github.com/Nexa-speech">Building a Multi-Agent System for Real-Time Conversations Between Humans and Als @NexaSpeech</a></li>
           <li><a href="https://github.com/HaleyKwok/Python_Libraries_for_RoboDK">Python Libraries for RoboDK</a></li>
           <li><a href="https://www.hkictawards.hk/award_en.php?year=2022&aid=8">Mutual Cognitive Human-Robot Collaborative Manufacturing Systems</a</li>
           <li><a href="http://ca.hkie.org.hk/en_it_events_inside_Upcoming.aspx?EventID=617&TypeName=Events%20/%20Activities">A Meta-Reinforcement Learning Based Control Approach for Assisting Human-Robot Collaboration in Personalized Production</a></li>
@@ -111,6 +110,7 @@ Here are some ideas to get you started:
           <li><b>Python Exercise</b></li> -->
        <td>
         <ul>
+          <li><a href="https://github.com/Nexa-speech">Building a Multi-Agent System for Real-Time Conversations Between Humans and Als @NexaSpeech</a></li>
           <li><a href="https://github.com/HaleyKwok/Python_Libraries_for_Data_Analytics/tree/main/Bengaluru_House_Price_Project">Bengaluru House Price Project</a></li>
           <li><a href = "https://github.com/HaleyKwok/Python_Libraries_for_ML">Python Libraries for ML</a></li>
           <li><a href = "https://github.com/HaleyKwok/Python_Libraries_for_Data_Analytics">Python Libraries for Data Analytics</a></li>
