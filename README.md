@@ -75,23 +75,23 @@ Here are some ideas to get you started:
   <!--        -->    
       <td>
         <ul>
-            <li><a href="https://github.com/lighTag-UWB/lighTag">lighTag-UWB</a></li>
-            <li><a href="https://github.com/HaleyKwok/Spherical_Robot">Spherical Robot</a></li>
+            <li><a href="https://github.com/lighTag-UWB/lighTag">lighTag-UWB @MIT(HK)</a></li>
+            <li><a href="https://github.com/HaleyKwok/Spherical_Robot">Spherical Robot @PolyU</a></li>
       </ul>
       </td>
     <!--        -->  
       <td>
         <ul>
           <li><a href="https://github.com/HaleyKwok/Python_Libraries_for_RoboDK">Python Libraries for RoboDK</a></li>
-          <li><a href="https://www.hkictawards.hk/award_en.php?year=2022&aid=8">Mutual Cognitive Human-Robot Collaborative Manufacturing Systems</a</li>
-          <li><a href="http://ca.hkie.org.hk/en_it_events_inside_Upcoming.aspx?EventID=617&TypeName=Events%20/%20Activities">A Meta-Reinforcement Learning Based Control Approach for Assisting Human-Robot Collaboration in Personalized Production</a></li>
+          <li><a href="https://www.hkictawards.hk/award_en.php?year=2022&aid=8">Mutual Cognitive Human-Robot Collaborative Manufacturing Systems @PolyU</a</li>
+          <li><a href="http://ca.hkie.org.hk/en_it_events_inside_Upcoming.aspx?EventID=617&TypeName=Events%20/%20Activities">A Meta-Reinforcement Learning Based Control Approach for Assisting Human-Robot Collaboration in Personalized Production @PolyU</a></li>
         </ul>
       </td>
  <!--        -->       
       <td>
         <ul>
           <li><a href="https://hinchi-kwok.com">My Personal Website</a></li>
-          <li><a href="https://github.com/HaleyKwok/ISE2001_Enterprise_Computing">Enterprise Computing</a></li>
+          <li><a href="https://github.com/HaleyKwok/ISE2001_Enterprise_Computing">Enterprise Computing @PolyU</a></li>
         </ul>
       </td>
 <!--         <ul>
@@ -99,9 +99,9 @@ Here are some ideas to get you started:
         </ul> -->
        <td>
         <ul>
-          <li><a href="https://github.com/HaleyKwok/Library_Management_System_Project">Library Management System Project</a></li>
-          <li><a href="https://github.com/HaleyKwok/University-Academic-Management-System">University Academic Management System</a></li>
-          <li><a href="https://github.com/HaleyKwok/ISE2001_Enterprise_Computing">Enterprise Computing</a></li>
+          <li><a href="https://github.com/HaleyKwok/Library_Management_System_Project">Library Management System Project @PolyU</a></li>
+          <li><a href="https://github.com/HaleyKwok/University-Academic-Management-System">University Academic Management System @UCB</a></li>
+          <li><a href="https://github.com/HaleyKwok/ISE2001_Enterprise_Computing">Enterprise Computing @PolyU</a></li>
         </ul>
        </td>     
 <!--       
