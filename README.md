@@ -82,7 +82,7 @@ Here are some ideas to get you started:
     <!--        -->  
       <td>
         <ul>
-          <li><a href="https://github.com/Nexa-speech">Building a Multi-Agent System for Real-Time Conversations Between Humans and Als [@NexaSpeech](https://www.nexa-speech.com/)</a></li>
+          <li><a href="https://github.com/Nexa-speech">Building a Multi-Agent System for Real-Time Conversations Between Humans and Als @NexaSpeech</a></li>
           <li><a href="https://github.com/HaleyKwok/Python_Libraries_for_RoboDK">Python Libraries for RoboDK</a></li>
           <li><a href="https://www.hkictawards.hk/award_en.php?year=2022&aid=8">Mutual Cognitive Human-Robot Collaborative Manufacturing Systems</a</li>
           <li><a href="http://ca.hkie.org.hk/en_it_events_inside_Upcoming.aspx?EventID=617&TypeName=Events%20/%20Activities">A Meta-Reinforcement Learning Based Control Approach for Assisting Human-Robot Collaboration in Personalized Production</a></li>
