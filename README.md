@@ -63,11 +63,11 @@ Here are some ideas to get you started:
       </td>
 <!--        -->      
       <td>
-        <b>Database</b>
+        <b>Management System</b>
       </td>
   <!--        -->    
       <td>
-        <b>Data Science and Machine Learning</b>
+        <b>Data Science</b>
       </td>
   <!--        -->    
     </tr>
@@ -111,6 +111,7 @@ Here are some ideas to get you started:
        <td>
         <ul>
           <li><a href="https://github.com/Nexa-speech">Building a Multi-Agent System for Real-Time Conversations Between Humans and Als @NexaSpeech</a></li>
+          <li><a href="https://github.com/HaleyKwok/Healthcare-analytics">University Health Services (UHS) Analysis @UCB</a></li>
           <li><a href="https://github.com/HaleyKwok/Python_Libraries_for_Data_Analytics/tree/main/Bengaluru_House_Price_Project">Bengaluru House Price Project</a></li>
           <li><a href = "https://github.com/HaleyKwok/Python_Libraries_for_ML">Python Libraries for ML</a></li>
           <li><a href = "https://github.com/HaleyKwok/Python_Libraries_for_Data_Analytics">Python Libraries for Data Analytics</a></li>
