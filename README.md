@@ -127,7 +127,7 @@ Here are some ideas to get you started:
         <ul>
           <li><a href="https://github.com/Nexa-speech">Building a Multi-Agent System for Real-Time Conversations Between Humans and Als @NexaSpeech</a></li>
           <li><a href = "https://www.synergies.ai/">Object segmentation @Synergy Intelligent Systems</a></li>
-          <li><a href = "https://github.com/HaleyKwok/Python_Libraries_for_ML"></a>Python Libraries for ML</li>
+          <li><a href = "https://github.com/HaleyKwok/Python_Libraries_for_ML">Python Libraries for ML</a></li>
       </ul>
       </td>
     <!--        -->  
