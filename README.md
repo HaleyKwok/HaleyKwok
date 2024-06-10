@@ -59,7 +59,7 @@ Here are some ideas to get you started:
       </td>
       <!--        -->
       <td>
-        <b>Web Development</b>
+        <b>Web and Software Development</b>
       </td>
 <!--        -->      
       <td>
@@ -67,9 +67,13 @@ Here are some ideas to get you started:
       </td>
   <!--        -->    
       <td>
-        <b>Data Science</b>
+        <b>Data Science and Analytics</b>
       </td>
   <!--        -->    
+      <td>
+        <b>Artifical Intelligence</b>
+      </td>
+  <!--        -->  
     </tr>
     <tr valign="top">
   <!--        -->    
@@ -90,6 +94,7 @@ Here are some ideas to get you started:
  <!--        -->       
       <td>
         <ul>
+          <li><a href="https://rimble.io/">Esports Analytics @Rimble</a></li>
           <li><a href="https://hinchi-kwok.com">My Personal Website</a></li>
           <li><a href="https://github.com/HaleyKwok/ISE2001_Enterprise_Computing">Enterprise Computing @PolyU</a></li>
         </ul>
@@ -110,16 +115,22 @@ Here are some ideas to get you started:
           <li><b>Python Exercise</b></li> -->
        <td>
         <ul>
-          <li><a href="https://github.com/Nexa-speech">Building a Multi-Agent System for Real-Time Conversations Between Humans and Als @NexaSpeech</a></li>
           <li><a href="https://github.com/HaleyKwok/Healthcare-analytics">University Health Services (UHS) Analysis @UCB</a></li>
           <li><a href="https://github.com/HaleyKwok/Python_Libraries_for_Data_Analytics/tree/main/Bengaluru_House_Price_Project">Bengaluru House Price Project</a></li>
-          <li><a href = "https://github.com/HaleyKwok/Python_Libraries_for_ML">Python Libraries for ML</a></li>
           <li><a href = "https://github.com/HaleyKwok/Python_Libraries_for_Data_Analytics">Python Libraries for Data Analytics</a></li>
           <li><a href= "https://github.com/HaleyKwok/The_Patchwork_Quilt_of_Python">The Patchwork Quilt of Python</a></li>
           <li><a href= "https://github.com/HaleyKwok/Python_Practice">Python Practice</a></li>
         </ul>
       </td>
  <!--        -->     
+      <td>
+        <ul>
+          <li><a href="https://github.com/Nexa-speech">Building a Multi-Agent System for Real-Time Conversations Between Humans and Als @NexaSpeech</a></li>
+          <li><a href = "https://github.com/HaleyKwok/Python_Libraries_for_ML">Object segmentation @Synergy Intelligent Systems</a></li>
+          <li><a href = "https://www.synergies.ai/">Python Libraries for ML</a></li>
+      </ul>
+      </td>
+    <!--        -->  
     </tr>
   </tbody>
 </table>
