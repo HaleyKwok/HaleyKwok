@@ -1,4 +1,4 @@
-### I'm Haley Kwok! Hello World from 🌏 22.3193° 114.1694° 👋
+### I'm Hin-Chi (Haley) Kwok! Hello World from 🌏 22.3193° 114.1694° 👋
 
 <!-- <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
