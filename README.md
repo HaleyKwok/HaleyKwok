@@ -94,7 +94,7 @@ Here are some ideas to get you started:
       <td>
         <ul>
           <li><a href="https://hinchi-kwok.com">My Personal Website</a></li>
-          <li><a href="https://github.com/YukaiWang88/Survey-System">Interative Polling and Survey System @PolyU</a><li>
+          <li><a href="https://github.com/orgs/POLYU-COMP3421/repositories">Interative Polling and Survey System @PolyU</a></li>
           <li><a href="https://rimble.io/">Esports Analytics @Rimble</a></li>
           <li><a href="https://github.com/HaleyKwok/ISE2001_Enterprise_Computing">Enterprise Computing @PolyU</a></li>
         </ul>
